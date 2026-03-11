@@ -71,7 +71,7 @@ Las decisiones técnicas tomadas para esta implementación fueron las siguientes
 
 ```bash
 git clone <https://github.com/jeissonjahvier10/prueba_tecnica_nuptum.git>
-cd aws-infra-test/terraform
+cd prueba_tecnica_nuptum/terraform
 ```
 ### 2. Inicializar Terraform
 ```bash
