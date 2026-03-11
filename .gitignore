@@ -1,0 +1,18 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Terraform lock file (optional)
+.terraform.lock.hcl
+
+# Variable files
+*.tfvars
+
+# Plan files
+*.tfplan
+
+# System files
+.DS_Store
+Thumbs.db
